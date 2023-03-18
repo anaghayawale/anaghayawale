@@ -21,8 +21,9 @@ I like to write in Java and I'm exploring Cloud Tech 🍵☁️
 
 <br/>  
 
+
 ## 💻 Skills  
-<div align="center">  
+<div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -36,16 +37,27 @@ I like to write in Java and I'm exploring Cloud Tech 🍵☁️
 
 <br/>  
 
-<br/>  
+<br/>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anaghayawale&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaghayawale&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=anaghayawale&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaghayawale&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+
+</p>
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
----
-[![](https://visitcount.itsvg.in/api?id=anaghayawale&icon=6&color=8)](https://visitcount.itsvg.in)
+<br/>
+
+
+<div align="right">
+  
+[![](https://visitcount.itsvg.in/api?id=anaghayawale&icon=6&color=12)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
