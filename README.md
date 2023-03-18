@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I'm a 3rd-year computer science undergraduate, and I'm passionate about all things technology.
+I'm a 3rd-year Computer Engineering undergraduate, and I'm passionate about all things technology.<br/>
 I like to write in Java and I'm exploring Cloud Tech 🍵☁️  
   
 
