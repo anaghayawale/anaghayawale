@@ -1,4 +1,4 @@
-# Hey 👋, I'm Anagha!  
+# hey 👋, i'm anagha!  
   
 
 <a href="https://github.com/anaghayawale" target="_blank">
@@ -14,15 +14,15 @@
 
 
 
-### Glad to see you here!  
-I'm a 3rd-year Computer Engineering undergraduate, and I'm passionate about all things technology.<br/>
-I like to write in Java and I'm exploring Cloud Tech 🍵☁️  
+### glad to see you here!  
+i'm a 3rd-year Computer Engineering undergraduate from Pune, and I'm passionate about all things technology.<br/>
+i like to write in Java and I'm exploring Cloud Tech 🍵☁️  
   
 
 <br/>  
 
 
-## 💻 Skills  
+## i'm a java fangirl, but i do some other stuff too 🔨 
 <div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -39,20 +39,14 @@ I like to write in Java and I'm exploring Cloud Tech 🍵☁️
 
 <br/>
 
-## 📊 GitHub Stats
+## my gitHub stats
 <p align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=anaghayawale&theme=dracula&hide_border=true&include_all_commits=true&count_private=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaghayawale&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaghayawale&theme=gotham&include_all_commits=true&count_private=false">
+  
 
 </p>
 <br/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
-<br/>
-
 
 <div align="right">
   
