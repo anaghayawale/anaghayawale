@@ -39,7 +39,7 @@ I like to write in Java and I'm exploring Cloud Tech 🍵☁️
 
 <br/>
 
-## my gitHub stats
+## My github stats
 <p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=anaghayawale&theme=gotham&include_all_commits=true&count_private=false">
