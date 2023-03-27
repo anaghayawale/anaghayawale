@@ -22,7 +22,7 @@ I like to write in java and I'm exploring Cloud Tech 🍵☁️
 <br/>  
 
 
-## I'm a java fangirl, but I do some other stuff too 🔨 
+## I'm a Java fangirl, but I do some other stuff too 🔨 
 <div align="left">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
