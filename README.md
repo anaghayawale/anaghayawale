@@ -41,8 +41,8 @@ I like to write in java and I'm exploring Cloud Tech 🍵☁️
 
 ## My github stats
 <p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=anaghayawale&theme=gotham&include_all_commits=true&count_private=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaghayawale&show_icons=true&count_private=true&hide_border=truetheme=gotham" align="left" style="width: 100%,,overflow:hidden" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=anaghayawale&theme=gotham&include_all_commits=true&count_private=false"> -->
   
 
 </p>
